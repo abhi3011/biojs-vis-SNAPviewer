@@ -103,9 +103,9 @@ d3.json("data.json",function(json){
             div.transition()        
                 .duration(200)      
                 .style("opacity", .9) 
-                .style("left", (d3.event.pageX+15) )     
-                .style("top", (d3.event.pageY +8) )   
-                .text("hello");
+                .style("left", (d3.event.pageX) +7)     
+                .style("top", (d3.event.pageY)+7)   
+                .text(info(d));
             })                  
         .on("mouseout", function(d) {       
             div.transition()        
@@ -114,9 +114,9 @@ d3.json("data.json",function(json){
         });
 
     
+    
 
-
-    zoom_help = elemEnter;    
+    zoom_help = elemEnter;   // saving the elemEnter as zoom_help for the zoomed function  
 
     var circle = elemEnter.append("circle")
                           .attr("cx",function(d){return x_cord[d.inde];})
@@ -126,14 +126,26 @@ d3.json("data.json",function(json){
                           
     
     elemEnter.append("text")
+             .attr("id","text")
              .attr("dy", function(d){return y_cord[d.inde]+5;})
              .attr("dx",function(d){ return x_cord[d.inde]-4;})
+             .attr("text-align","center")
              .text(function(d){return d.name});
              
  }) ;
 
-
+//zoom function
 function zoomed() {
   zoom_help.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
 }
 
+
+//coordinates to the tooltip
+
+/*var tooltip_x = function(d){return (x_cord[d.inde]+15);};
+var tooltip_y = function(d){return (y_cord[d.inde]+15);};*/
+
+
+//information on the tool tip
+
+var info = function(d){return (d.mut[0].what+" "+" "+d.mut[0].type)};
