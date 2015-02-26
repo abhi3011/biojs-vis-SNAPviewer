@@ -1,58 +1,44 @@
-
+//various variables
 
            
-var diameter = 30;
-var a = diameter;
+var diameter = 30;                  //diameter of the residue circle
+var a = diameter;                   //variables a and b are used in calculating the coordinates of all residues
 var b= diameter;
-var x=50;
+var x=50;                           //starting coordinates for the function 
 var y=50;
-var x_cord=[];
+var x_cord=[];                      //empty arrays to contain the coordinates of the residues
 var y_cord=[];
 var count = 0;
-var residue_num = 300;
+var residue_num = 300;              //number of maximum residues
+var zoom_help;
+
+
+// tool tip initialization
+
+var div = d3.select("body").append("div")   
+    .attr("class", "tooltip")               
+    .attr("x",500)
+    .style("opacity", 0);
 
 
 
 
-var new_svgcontainer=d3.select("body")
-                         .append("svg")
-                         .attr("height",150)
-                         .attr("width",950);
-var info_field = new_svgcontainer
-                 .append("g");
 
-var info_box= info_field.append("rect")
-                      .attr("x",225)
-                      .attr("y",0)
-                      .attr("height",225)
-                      .attr("width",500)
-                      .style("fill","#ccff00");
 
-var info_text = info_field.append("text");                      
-var info_text_mutation = info_field.append("text");
-                                    
+
                                     
 
 
 
 
-//scg container for circles and text
+//zoom function
 
-var svgcontainer = d3.select("body").append("svg") 
-                                    .attr("width", 950)
-                                    .attr("height",2000);
-
-
+var zoom = d3.behavior.zoom()
+    .scaleExtent([1, 10])
+    .on("zoom", zoomed);
 
 
 
-//table of information of the top
-
-function mutation_table(k){
-  
-  return(k.mut[0].what+"--------------------------->"+k.mut[0].type)
-    
-}
 
 
 
@@ -61,7 +47,7 @@ function mutation_table(k){
 
 // calculating coordintes of the residue circles and pushing them in the empty array x_cord and y_cord
 
-while(count<+residue_num){
+while(count<=residue_num){
   for(i=1;i<=30;i++){
     if(i<=28)
       {x=x+a
@@ -83,54 +69,27 @@ while(count<+residue_num){
 
 //function to pick specific colour for specific residues
 
-function colourPick(i){ 
 
-  if (i=='A')
-      return "#00cc00";
-  if(i=='R')
-      return "#e5e4e2";
-  if(i=='N')
-      return "#98afc7";
-  if(i=='D')
-      return "#0041c2";
-  if(i=='C')
-      return "#3bb9ff";
-  if(i=='E')
-      return "#728c00";
-  if(i=='Q')
-      return "#00ff00";
-  if(i=='G')
-      return "#ffff00";
-  if(i=='H')
-      return "#cd7f32";
-  if(i=='I')
-      return "#ff8040";
-  if(i=='L')
-      return "#f75d59";
-  if(i=='K')
-      return "#7d0552";
-  if(i=='M')
-      return "#c48189";
-  if(i=='F')
-      return "#f3e5ab";
-  if(i=='P')
-      return "#347c17";
-  if(i=='S')
-      return "#57feff";
-  if(i=='T')
-      return "#c9be62";
-  if(i=='W')
-      return "#ffe87c";
-  if(i=='Y')
-      return "#ffebcd";
-  if(i=='V')
-      return "#3bb900";
+
+function colourPick(d){
+
+  if (d.mut[0].type== "neutral")
+    {return "lightgreen"};
+  if (d.mut[0].type== "non-neutral")
+    {return "red"};
+
 }
 
-//
 
 
-//drawing section
+
+//svg container for circles and text
+
+var svgcontainer = d3.select("body").append("svg") 
+                                    .attr("width", 950)
+                                    .attr("height",2000)
+                                    .call(zoom);
+
 
 
 d3.json("data.json",function(json){
@@ -140,58 +99,41 @@ d3.json("data.json",function(json){
 
     var elemEnter = elem.enter()
         .append("g")
-        .on("click",function(d){
-                            zoom_num= 1;
-                            return zoom(d);
-                            });
+        .on("mouseover", function(d) {      
+            div.transition()        
+                .duration(200)      
+                .style("opacity", .9) 
+                .style("left", (d3.event.pageX+15) )     
+                .style("top", (d3.event.pageY +8) )   
+                .text("hello");
+            })                  
+        .on("mouseout", function(d) {       
+            div.transition()        
+                .duration(500)      
+                .style("opacity", 0);   
+        });
+
+    
+
+
+    zoom_help = elemEnter;    
 
     var circle = elemEnter.append("circle")
                           .attr("cx",function(d){return x_cord[d.inde];})
                           .attr("cy",function(d){return y_cord[d.inde];})
                           .attr("r",15)
-                          .style("fill",function(d){return colourPick(d.name)});
+                          .style("fill",function(d){return colourPick(d)});
                           
-
+    
     elemEnter.append("text")
              .attr("dy", function(d){return y_cord[d.inde]+5;})
-             .attr("dx",function(d){ return x_cord[d.inde]-5;})
+             .attr("dx",function(d){ return x_cord[d.inde]-4;})
              .text(function(d){return d.name});
              
  }) ;
 
 
-
-function zoom(d){
-  
-   
-  var k = d; 
-  console.log(x_cord[0]);
-  var t = svgcontainer.selectAll("g")
-                    /*  .selectAll("circle")
-                      .attr("cx",(475-x_cord[k.inde]))
-                      .attr("cy",(475-y_cord[k.inde]));*/
-                     
-
-
-                      .transition()
-                      .duration(750)
-                      .attr("transform", function(d){return "translate(" + (475-x_cord[k.inde]) + "," + (100-y_cord[k.inde]) + ")";});
-
- 
-                   
- 
-                      
-
-var give_info_name= info_text
-               .attr("dx",250)
-               .attr("dy",20)
-               .text("RESIDUE:"+k.name+"........................................................................"+"POSITION:"+(k.inde+1));
-
-var give_mutation  =  info_text_mutation 
-                         .attr("dx",260)
-                         .attr("dy",50) 
-                         .text(mutation_table(k)); 
-
-
-
+function zoomed() {
+  zoom_help.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
 }
+
