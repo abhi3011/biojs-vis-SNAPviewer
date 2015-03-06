@@ -1,329 +1,1268 @@
 {
 "residues":[
     {"name":"M","mut":[
+    {"what":"no substitution","type":""}
     ],"inde":0},   
     {"name":"R","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":1},
     {"name":"H","mut":[
-         {"what":"H2A","type":"non-neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":2},
     {"name":"I","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":3},
     {"name":"A","mut":[
-         {"what":"H2A","type":"non-neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":4},
     {"name":"H","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":5},
     {"name":"T","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":6},
     {"name":"Q","mut":[
-         {"what":"H2A","type":"non-neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":7},
     {"name":"R","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":8},
     {"name":"C","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":9},
     {"name":"S","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":10},
     {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":11},
     {"name":"R","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":12},
     {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":13},
     {"name":"T","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":14},
     {"name":"S","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":15},
     {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":16},
     {"name":"V","mut":[
-         {"what":"H2A","type":"non-neutral"}
+         {"what":"V18L","type":"neutral"}
     ],"inde":17},
     {"name":"A","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":18},
     {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":19},
     {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":20},
     {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":21},
     {"name":"I","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":22},
     {"name":"V","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"V24L","type":"neutral"}
     ],"inde":23},
     {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":24},
     {"name":"P","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":25},
     {"name":"M","mut":[
-         {"what":"H2A","type":"non-neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":26},
     {"name":"V","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"V28L","type":"neutral"}
     ],"inde":27},
-    {"name":"P","mut":[
-         {"what":"H2A","type":"neutral"}
+    {"name":"F","mut":[
+         {"what":"no substitution","type":""}
     ],"inde":28},
     {"name":"S","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":29},
     {"name":"P","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":30},
     {"name":"A","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":31},
     {"name":"H","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":32},
     {"name":"S","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":33},
     {"name":"C","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":34},
     {"name":"G","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":35},
      {"name":"P","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":36},
     {"name":"G","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":37},
     {"name":"R","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":38},
     {"name":"G","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":39},
     {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":40},
     {"name":"G","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":41},
     {"name":"R","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":42},
      {"name":"H","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":43},
     {"name":"R","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":44},
     {"name":"A","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":45},
     {"name":"R","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":46},
     {"name":"N","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":47},
     {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":48},
     {"name":"Y","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":49},
      {"name":"P","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":50},
     {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":51},
     {"name":"V","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"V53L","type":"neutral"}
     ],"inde":52},
     {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":53},
     {"name":"K","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":54},
     {"name":"Q","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":55},
     {"name":"T","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":56},
      {"name":"I","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":57},
     {"name":"P","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":58},
     {"name":"N","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":59},
     {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":60},
     {"name":"S","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":61},
     {"name":"E","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":62},
     {"name":"Y","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":63},
     {"name":"T","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":59},
-    {"name":"N","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":60},
-    {"name":"S","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":61},
-    {"name":"A","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":62},
-    {"name":"S","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":63},
-    {"name":"G","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":59},
-    {"name":"P","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":60},
-    {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":61},
-    {"name":"E","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":62},
-    {"name":"G","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":63},
-    {"name":"V","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":59},
-    {"name":"I","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":60},
-    {"name":"R","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":61},
-    {"name":"R","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":62},
-    {"name":"D","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":63},
-    {"name":"S","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":64},
-    {"name":"P","mut":[
-         {"what":"H2A","type":"neutral"}
+    {"name":"N","mut":[
+         {"what":"no substitution","type":""}
     ],"inde":65},
-    {"name":"K","mut":[
-         {"what":"H2A","type":"neutral"}
+    {"name":"S","mut":[
+         {"what":"no substitution","type":""}
     ],"inde":66},
-    {"name":"F","mut":[
-         {"what":"H2A","type":"neutral"}
+    {"name":"A","mut":[
+         {"what":"no substitution","type":""}
     ],"inde":67},
-    {"name":"K","mut":[
-         {"what":"H2A","type":"neutral"}
+    {"name":"S","mut":[
+         {"what":"no substitution","type":""}
     ],"inde":68},
-    {"name":"D","mut":[
-         {"what":"H2A","type":"neutral"}
+    {"name":"G","mut":[
+         {"what":"no substitution","type":""}
     ],"inde":69},
-    {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":70},
-    {"name":"V","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":71},
     {"name":"P","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
+    ],"inde":70},
+    {"name":"L","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":71},
+    {"name":"E","mut":[
+         {"what":"no substitution","type":""}
     ],"inde":72},
-    {"name":"N","mut":[
-         {"what":"H2A","type":"neutral"}
+    {"name":"G","mut":[
+         {"what":"no substitution","type":""}
     ],"inde":73},
-    {"name":"Y","mut":[
-         {"what":"H2A","type":"neutral"}
+    {"name":"V","mut":[
+         {"what":"no substitution","type":"neutral"}
     ],"inde":74},
-    {"name":"N","mut":[
-         {"what":"H2A","type":"neutral"}
+    {"name":"I","mut":[
+         {"what":"no substitution","type":""}
     ],"inde":75},
     {"name":"R","mut":[
-         {"what":"H2A","type":"neutral"}
+         {"what":"no substitution","type":""}
     ],"inde":76},
-    {"name":"D","mut":[
-         {"what":"H2A","type":"neutral"}
+    {"name":"R","mut":[
+         {"what":"no substitution","type":""}
     ],"inde":77},
-    {"name":"I","mut":[
-         {"what":"H2A","type":"neutral"}
+    {"name":"D","mut":[
+         {"what":"no substitution","type":""}
     ],"inde":78},
-    {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":79},
-    {"name":"F","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":80},
-    {"name":"R","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":81},
-    {"name":"D","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":82},
-    {"name":"E","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":83},
-    {"name":"E","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":84},
-    {"name":"G","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":85},
-    {"name":"T","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":86},
-    {"name":"G","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":87},
-    {"name":"A","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":88},
-    {"name":"D","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":89},
-    {"name":"R","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":90},
-    {"name":"L","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":91},
-    {"name":"M","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":92},
     {"name":"S","mut":[
-         {"what":"H2A","type":"neutral"}
-    ],"inde":93}
+         {"what":"no substitution","type":""}
+    ],"inde":79},
+    {"name":"P","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":80},
+    {"name":"K","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":81},
+    {"name":"F","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":82},
+    {"name":"K","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":83},
+    {"name":"D","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":84},
+    {"name":"L","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":85},
+    {"name":"V","mut":[
+         {"what":"V75L","type":""}
+    ],"inde":86},
+    {"name":"P","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":87},
+    {"name":"N","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":88},
+    {"name":"Y","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":89},
+    {"name":"N","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":90},
+    {"name":"R","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":91},
+    {"name":"D","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":92},
+    {"name":"I","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":93},
+    {"name":"L","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":94},
+    {"name":"F","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":95},
+    {"name":"R","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":96},
+    {"name":"D","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":97},
+    {"name":"E","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":98},
+    {"name":"E","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":99},
+    {"name":"G","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":100},
+    {"name":"T","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":101},
+    {"name":"G","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":102},
+    {"name":"A","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":103},
+    {"name":"D","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":104},
+    {"name":"R","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":105},
+    {"name":"L","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":106},
+    {"name":"M","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":107},
+    {"name":"S","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":108},
+    {"name":"K","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":109},
+    {"name":"R","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":110},
+    {"name":"C","mut":[
+         {"what":"no substitution","type":""}
+    ],"inde":111},
+    {"name":"K","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":112},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":113},
+    {"name":"K","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":114},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":115},
+    {"name":"N","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":116},
+    {"name":"V","mut":[
+         {"what":"V103L","type":"neutral"}
+    ],"inde":117},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":118},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":119},
+    {"name":"Y","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":120},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":121},
+    {"name":"V","mut":[
+         {"what":"V108L","type":"non-neutral"}
+    ],"inde":122},
+    {"name":"M","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":123},
+    {"name":"N","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":124},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":125},
+    {"name":"W","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":126},
+    {"name":"P","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":127},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":128},
+    {"name":"I","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":129},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":130},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":131},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":132},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":133},
+    {"name":"T","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":134},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":135},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":136},
+    {"name":"W","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":137},
+    {"name":"D","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":138},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":"non-"}
+    ],"inde":139},
+    {"name":"Y","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":140},
+    {"name":"H","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":141},
+    {"name":"H","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":142},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":143},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":144},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":145},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":146},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":147},
+    {"name":"H","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":148},
+    {"name":"Y","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":149},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":150},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":151},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":152},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":153},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":154},
+    {"name":"T","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":155},
+    {"name":"I","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":156},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":157},
+    {"name":"T","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":158},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":159},
+    {"name":"D","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":160},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":161},
+    {"name":"D","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":162},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":163},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":164},
+    {"name":"K","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":165},
+    {"name":"Y","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":166},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":167},
+    {"name":"M","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":168},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":169},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":170},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":171},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":172},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":173},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":174},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":175},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":176},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":177},
+    {"name":"F","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":178},
+    {"name":"D","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":179},
+    {"name":"W","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":180},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":181},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":182},
+    {"name":"Y","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":183},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":184},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":185},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":186},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":187},
+    {"name":"H","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":188},
+    {"name":"I","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":189},
+    {"name":"Y","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":190},
+    {"name":"C","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":191},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":192},
+    {"name":"K","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":193},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":194},
+    {"name":"D","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":195},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":196},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":197},
+    {"name":"I","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":198},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":199},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":200},
+    {"name":"H","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":201},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":202},
+    {"name":"H","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":203},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":204},
+    {"name":"C","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":205},
+    {"name":"F","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":206},
+    {"name":"T","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":207},
+    {"name":"P","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":208},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":209},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":210},
+    {"name":"T","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":211},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":212},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":213},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":214},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":215},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":216},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":217},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":218},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":219},
+    {"name":"K","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":220},
+    {"name":"P","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":221},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":222},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":223},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":224},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":225},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":226},
+    {"name":"I","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":227},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":228},
+    {"name":"D","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":229},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":230},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":231},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":232},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":233},
+    {"name":"M","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":234},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":235},
+    {"name":"N","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":236},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":237},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":238},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":239},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":240},
+    {"name":"Y","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":241},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":242},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":243},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":244},
+    {"name":"I","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":245},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":246},
+    {"name":"F","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":247},
+    {"name":"M","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":248},
+    {"name":"D","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":249},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":250},
+    {"name":"N","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":251},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":252},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":253},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":254},
+    {"name":"M","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":255},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":256},
+    {"name":"N","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":257},
+    {"name":"F","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":258},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":259},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":260},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":261},
+    {"name":"H","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":262},
+    {"name":"T","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":263},
+    {"name":"D","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":264},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":265},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":266},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":267},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":268},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":269},
+    {"name":"T","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":270},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":271},
+    {"name":"T","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":272},
+    {"name":"P","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":273},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":274},
+    {"name":"H","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":275},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":276},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":277},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":278},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":279},
+    {"name":"W","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":280},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":281},
+    {"name":"P","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":282},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":283},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":284},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":285},
+    {"name":"K","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":286},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":287},
+    {"name":"T","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":288},
+    {"name":"F","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":289},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":290},
+    {"name":"F","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":291},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":292},
+    {"name":"D","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":293},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":294},
+    {"name":"I","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":295},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":296},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":297},
+    {"name":"K","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":298},
+    {"name":"N","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":299},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":300},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":301},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":302},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":303},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":304},
+    {"name":"D","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":305},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":306},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":307},
+    {"name":"T","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":308},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":309},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":310},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":311},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":312},
+    {"name":"P","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":313},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":314},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":315},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":316},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":317},
+    {"name":"K","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":318},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":319},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":320},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":321},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":322},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":323},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":324},
+    {"name":"K","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":325},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":326},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":327},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":328},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":329},
+    {"name":"P","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":330},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":331},
+    {"name":"T","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":332},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":333},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":334},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":335},
+    {"name":"T","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":336},
+    {"name":"I","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":337},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":338},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":339},
+    {"name":"N","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":340},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":341},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":342},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":343},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":344},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":345},
+    {"name":"C","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":346},
+    {"name":"Y","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":347},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":348},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":349},
+    {"name":"I","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":350},
+    {"name":"N","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":351},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":352},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":353},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":354},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":355},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":356},
+    {"name":"H","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":357},
+    {"name":"W","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":358},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":359},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":360},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":361},
+    {"name":"P","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":362},
+    {"name":"M","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":363},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":364},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":365},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":366},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":367},
+    {"name":"DT","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":368},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":369},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":370},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":371},
+    {"name":"W","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":372},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":373},
+    {"name":"P","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":374},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":375},
+    {"name":"K","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":376},
+    {"name":"E","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":377},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":378},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":379},
+    {"name":"H","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":380},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":381},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":382},
+    {"name":"P","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":383},
+    {"name":"K","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":384},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":385},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":386},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":387},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":388},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":389},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":390},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":391},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":392},
+    {"name":"N","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":393},
+    {"name":"G","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":394},
+    {"name":"I","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":395},
+    {"name":"H","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":396},
+    {"name":"W","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":397},
+    {"name":"Y","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":398},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":399},
+    {"name":"N","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":400},
+    {"name":"A","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":401},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":402},
+    {"name":"Y","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":403},
+    {"name":"K","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":404},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":405},
+    {"name":"K","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":406},
+    {"name":"D","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":407},
+    {"name":"Y","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":408},
+    {"name":"V","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":409},
+    {"name":"L","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":410},
+    {"name":"P","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":411},
+    {"name":"Q","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":412},
+    {"name":"S","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":413},
+    {"name":"W","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":414},
+    {"name":"R","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":415},
+    {"name":"H","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":416},
+    {"name":"D","mut":[
+         {"what":"NO SUBSTITUTION","type":""}
+    ],"inde":417}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
 ]}
