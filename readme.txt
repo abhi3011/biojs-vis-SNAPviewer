@@ -12,7 +12,7 @@ yellow ->     substitution but neutral
 red    ->     non-neutral substitution
 
 dragging and zooming features are proovided for enhanced user interaction.
-the default data.json file includes the protien sequence copied from-> http://mendel.imp.ac.at/PhyloDome/fastas.html and the results are found from the SNAP website. The minimum reliability index is 0, and minimum expected accuracy is 50%.
+the default data.json file includes the protien sequence copied from-> http://mendel.imp.ac.at/PhyloDome/fastas.html and the results are found from the SNAP website.The type of substitution used is V*L, which replaces all the V from L.The minimum reliability index is 0, and minimum expected accuracy is 50%.
 
 HOW TO USE
 
