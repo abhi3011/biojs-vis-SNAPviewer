@@ -1,340 +1,340 @@
 {
 "residues":[
     {"name":"M","mut":[
-    {"what":"no substitution","type":""}
+    {"what":"NO SUBSTITUTION","type":""}
     ],"inde":0},   
     {"name":"R","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":1},
     {"name":"H","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":2},
     {"name":"I","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":3},
     {"name":"A","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":4},
     {"name":"H","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":5},
     {"name":"T","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":6},
     {"name":"Q","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":7},
     {"name":"R","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":8},
     {"name":"C","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":9},
     {"name":"S","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":10},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":11},
     {"name":"R","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":12},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":13},
     {"name":"T","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":14},
     {"name":"S","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":15},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":16},
     {"name":"V","mut":[
          {"what":"V18L","type":"neutral"}
     ],"inde":17},
     {"name":"A","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":18},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":19},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":20},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":21},
     {"name":"I","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":22},
     {"name":"V","mut":[
          {"what":"V24L","type":"neutral"}
     ],"inde":23},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":24},
     {"name":"P","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":25},
     {"name":"M","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":26},
     {"name":"V","mut":[
          {"what":"V28L","type":"neutral"}
     ],"inde":27},
     {"name":"F","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":28},
     {"name":"S","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":29},
     {"name":"P","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":30},
     {"name":"A","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":31},
     {"name":"H","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":32},
     {"name":"S","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":33},
     {"name":"C","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":34},
     {"name":"G","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":35},
      {"name":"P","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":36},
     {"name":"G","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":37},
     {"name":"R","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":38},
     {"name":"G","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":39},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":40},
     {"name":"G","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":41},
     {"name":"R","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":42},
      {"name":"H","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":43},
     {"name":"R","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":44},
     {"name":"A","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":45},
     {"name":"R","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":46},
     {"name":"N","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":47},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":48},
     {"name":"Y","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":49},
      {"name":"P","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":50},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":51},
     {"name":"V","mut":[
          {"what":"V53L","type":"neutral"}
     ],"inde":52},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":53},
     {"name":"K","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":54},
     {"name":"Q","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":55},
     {"name":"T","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":56},
      {"name":"I","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":57},
     {"name":"P","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":58},
     {"name":"N","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":59},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":60},
     {"name":"S","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":61},
     {"name":"E","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":62},
     {"name":"Y","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":63},
     {"name":"T","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":64},
     {"name":"N","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":65},
     {"name":"S","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":66},
     {"name":"A","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":67},
     {"name":"S","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":68},
     {"name":"G","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":69},
     {"name":"P","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":70},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":71},
     {"name":"E","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":72},
     {"name":"G","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":73},
     {"name":"V","mut":[
-         {"what":"no substitution","type":"neutral"}
+         {"what":"NO SUBSTITUTION","type":"neutral"}
     ],"inde":74},
     {"name":"I","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":75},
     {"name":"R","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":76},
     {"name":"R","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":77},
     {"name":"D","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":78},
     {"name":"S","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":79},
     {"name":"P","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":80},
     {"name":"K","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":81},
     {"name":"F","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":82},
     {"name":"K","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":83},
     {"name":"D","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":84},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":85},
     {"name":"V","mut":[
          {"what":"V75L","type":""}
     ],"inde":86},
     {"name":"P","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":87},
     {"name":"N","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":88},
     {"name":"Y","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":89},
     {"name":"N","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":90},
     {"name":"R","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":91},
     {"name":"D","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":92},
     {"name":"I","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":93},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":94},
     {"name":"F","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":95},
     {"name":"R","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":96},
     {"name":"D","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":97},
     {"name":"E","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":98},
     {"name":"E","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":99},
     {"name":"G","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":100},
     {"name":"T","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":101},
     {"name":"G","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":102},
     {"name":"A","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":103},
     {"name":"D","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":104},
     {"name":"R","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":105},
     {"name":"L","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":106},
     {"name":"M","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":107},
     {"name":"S","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":108},
     {"name":"K","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":109},
     {"name":"R","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":110},
     {"name":"C","mut":[
-         {"what":"no substitution","type":""}
+         {"what":"NO SUBSTITUTION","type":""}
     ],"inde":111},
     {"name":"K","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -352,7 +352,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":116},
     {"name":"V","mut":[
-         {"what":"V103L","type":"neutral"}
+         {"what":"V118L","type":"neutral"}
     ],"inde":117},
     {"name":"L","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -400,7 +400,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":132},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V134L","type":"non-neutral"}
     ],"inde":133},
     {"name":"T","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -463,7 +463,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":153},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V155L","type":"neutral"}
     ],"inde":154},
     {"name":"T","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -523,7 +523,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":173},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V175L","type":"neutral"}
     ],"inde":174},
     {"name":"E","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -544,7 +544,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":180},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V182L","type":"neutral"}
     ],"inde":181},
     {"name":"S","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -553,7 +553,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":183},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V185L","type":"neutral"}
     ],"inde":184},
     {"name":"S","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -577,7 +577,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":191},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V193L","type":"non-neutral"}
     ],"inde":192},
     {"name":"K","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -607,7 +607,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":201},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V203L","type":"neutral"}
     ],"inde":202},
     {"name":"H","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -655,7 +655,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":217},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V219L","type":"neutral"}
     ],"inde":218},
     {"name":"R","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -694,7 +694,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":230},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V232","type":"neutral"}
     ],"inde":231},
     {"name":"L","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -721,7 +721,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":239},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V241L","type":"neutral"}
     ],"inde":240},
     {"name":"Y","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -733,7 +733,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":243},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V245L","type":"non-neutral"}
     ],"inde":244},
     {"name":"I","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -778,7 +778,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":258},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V260L","type":"neutral"}
     ],"inde":259},
     {"name":"Q","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -805,7 +805,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":267},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V269L","type":"neutral"}
     ],"inde":268},
     {"name":"L","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -814,7 +814,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":270},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V272L","type":"neutral"}
     ],"inde":271},
     {"name":"T","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -832,13 +832,13 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":276},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V278L","type":"neutral"}
     ],"inde":277},
     {"name":"S","mut":[
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":278},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V280L","type":"neutral"}
     ],"inde":279},
     {"name":"W","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -874,7 +874,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":290},
     {"name":"F","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V291L","type":"neutral"}
     ],"inde":291},
     {"name":"A","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -904,13 +904,13 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":300},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V302L","type":"neutral"}
     ],"inde":301},
     {"name":"L","mut":[
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":302},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V304L","type":"neutral"}
     ],"inde":303},
     {"name":"R","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -919,7 +919,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":305},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V307L","type":"neutral"}
     ],"inde":306},
     {"name":"E","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -949,16 +949,16 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":315},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V317L","type":"neutral"}
     ],"inde":316},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V318L","type":"neutral"}
     ],"inde":317},
     {"name":"K","mut":[
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":318},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V320L","type":"neutral"}
     ],"inde":319},
     {"name":"G","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -967,7 +967,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":321},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V323L","type":"neutral"}
     ],"inde":322},
     {"name":"R","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -982,10 +982,10 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":326},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V327L","type":"neutral"}
     ],"inde":327},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V328L","type":"neutral"}
     ],"inde":328},
     {"name":"A","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -1015,10 +1015,10 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":337},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V339L","type":"neutral"}
     ],"inde":338},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V340L","type":"non-neutral"}
     ],"inde":339},
     {"name":"N","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -1027,7 +1027,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":341},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V343L","type":"non-neutral"}
     ],"inde":342},
     {"name":"A","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -1048,7 +1048,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":348},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V350L","type":"neutral"}
     ],"inde":349},
     {"name":"I","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -1156,10 +1156,10 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":384},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V386L","type":"neutral"}
     ],"inde":385},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V387L","type":"neutral"}
     ],"inde":386},
     {"name":"S","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -1216,7 +1216,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":404},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V406L","type":"neutral"}
     ],"inde":405},
     {"name":"K","mut":[
          {"what":"NO SUBSTITUTION","type":""}
@@ -1228,7 +1228,7 @@
          {"what":"NO SUBSTITUTION","type":""}
     ],"inde":408},
     {"name":"V","mut":[
-         {"what":"NO SUBSTITUTION","type":""}
+         {"what":"V410L","type":"neutral"}
     ],"inde":409},
     {"name":"L","mut":[
          {"what":"NO SUBSTITUTION","type":""}
